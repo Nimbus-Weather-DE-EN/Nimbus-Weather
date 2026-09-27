@@ -38,7 +38,7 @@ We are currently finalizing **Nimbus Weather Pro** for its official Google Play 
 
 ## 📥 Installation
 
-1. Go to the [Releases] section.
+1. Go to the **[Releases]** section.
 2. Download the latest `Nimbus-Weather-v1.0.0.apk`.
 3. Open the file on your Android device and confirm the installation.
 
