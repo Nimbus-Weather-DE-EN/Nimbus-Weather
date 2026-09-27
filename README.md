@@ -1,10 +1,10 @@
 # 🌤️ Nimbus Weather (Standard Edition)
 
-> A lightweight, privacy-focused, and ad-free weather application for Android featuring a clean Leaflet rain radar, dynamic canvas animations, and smart daily briefings.
+> A lightweight, privacy-focused, and ad-free weather application for Android featuring a clean Leaflet rain radar and dynamic canvas animations.
 
 ---
 
-## ✨ Features
+## ✨ Features (Standard Edition)
 
 ### 🌧️ Clean & Fluid Leaflet Rain Radar
 - **Interactive Map:** High-performance Leaflet.js map with responsive zoom and pan.
@@ -16,33 +16,29 @@
 - **Battery-Optimized:** Built with `requestAnimationFrame()` and automatic pause handling when the app goes into the background or the screen locks.
 - **Toggle Support:** Disable background animations anytime via settings for maximum performance.
 
-### 🔔 Smart Push Notifications
-- **Morning Briefing:** Get your daily forecast (e.g., max temperature & rain warnings) right at 07:00 AM.
-- **Evening Preview:** A quick outlook for the next day around 08:00 PM.
-- **Severe Weather Alerts:** Real-time notifications for sudden weather changes powered by native Android `WorkManager`.
-
 ### 🛡️ Privacy First & Performance
 - **Zero Ads & Trackers:** No third-party ad networks or user tracking.
 - **Fast Launch:** Instant startup time and low memory footprint.
-- **Standard Widget:** Clean pre-styled homescreen widget for quick weather checks.
+- **Standard Widget:** Clean, pre-styled homescreen weather widget for quick status checks.
 
 ---
 
-## 📱 Coming Soon: Nimbus Weather Pro
+## 🚀 Coming Soon: Nimbus Weather Pro
 
-I am currently finalizing **Nimbus Weather Pro**, which will be released on the Google Play Store! 
+We are currently finalizing **Nimbus Weather Pro** for its official Google Play Store release! Pro unlocks the full potential of Nimbus Weather:
 
-**Pro Features will include:**
-- 🎛️ **Full Widget Customizer:** Real-time opacity/transparency sliders & scale controls.
-- 🧩 **Custom Data Slots:** Choose custom metrics (UV index, AQI, air pressure, wind speeds) for your widgets.
-- 🎯 **Smart Tap Zones:** Quick shortcuts to click directly into your Alarm Clock, Calendar, or App from the widget.
-- 🎨 **Icon Color Protection & Badges:** Adaptive text and icon visibility for any wallpaper setup.
+- 🎛️ **Advanced Widget Designer:** Complete freedom with transparency/opacity sliders, scale controls, custom data slots, and smart tap zones (launch Alarm, Calendar, or Apps directly).
+- 🎨 **Expanded Dynamic Engine & Custom Themes:** Advanced background particle effects and a huge library of UI/Widget themes.
+- 🌱 **Season & Phenology Tracker:** Track natural seasons, environmental transitions, and phenological plant/nature cycles.
+- 🤖 **Weather Intelligence & Radar AI:** AI-powered radar analysis, predictive precipitation forecasting, and smart daily weather insights.
+- 🔔 **Smart Push Notifications:** Intelligent morning briefings, evening previews, and real-time severe weather alerts.
+- ✨ **And much more...**
 
 ---
 
 ## 📥 Installation
 
-1. Go to the Releases section.
+1. Go to the [Releases] section.
 2. Download the latest `Nimbus-Weather-v1.0.0.apk`.
 3. Open the file on your Android device and confirm the installation.
 
@@ -52,9 +48,9 @@ I am currently finalizing **Nimbus Weather Pro**, which will be released on the 
 - **Frontend:** HTML5 Canvas, CSS3, JavaScript
 - **Map Engine:** Leaflet.js + RainViewer Radar Tiles
 - **Android Native Bridge:** Capacitor JS
-- **Native Android:** Kotlin, `WorkManager`, `NotificationChannels`
+- **Native Android:** Kotlin, `WorkManager`
 
 ---
 
 ## 💬 Feedback & Bug Reports
-If you encounter any bugs, have device-specific rendering issues, or want to suggest features, please open an issue under **[GitHub Issues](https://github.com/DEIN_USERNAME/DEIN_REPO_NAME/issues)** or reach out on Reddit!
+If you encounter any bugs, have device-specific rendering issues, or want to suggest features, please open an issue under **[GitHub Issues]** or reach out on Reddit!
