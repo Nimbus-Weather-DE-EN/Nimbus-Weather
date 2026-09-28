@@ -1,56 +1,77 @@
-# 🌤️ Nimbus Weather (Standard Edition)
+# 🌦️ Nimbus Weather
 
-> A lightweight, privacy-focused, and ad-free weather application for Android featuring a clean Leaflet rain radar and dynamic canvas animations.
+A sleek, privacy-focused, and completely ad-free weather application for Android built with modern web technologies and Capacitor.
 
----
-
-## ✨ Features (Standard Edition)
-
-### 🌧️ Clean & Fluid Leaflet Rain Radar
-- **Interactive Map:** High-performance Leaflet.js map with responsive zoom and pan.
-- **Player Controls:** Play/pause past and current precipitation radar frames (2-hour timeline).
-- **Fast & Lightweight:** Smooth tile loading without intrusive ads or bloated tracking scripts.
-
-### 🎨 Dynamic Background Animations
-- **Condition-Aware Canvas:** Real-time HTML5 particle rendering for Rain, Snow, Thunderstorms, and Sunbeams.
-- **Battery-Optimized:** Built with `requestAnimationFrame()` and automatic pause handling when the app goes into the background or the screen locks.
-- **Toggle Support:** Disable background animations anytime via settings for maximum performance.
-
-### 🛡️ Privacy First & Performance
-- **Zero Ads & Trackers:** No third-party ad networks or user tracking.
-- **Fast Launch:** Instant startup time and low memory footprint.
-- **Standard Widget:** Clean, pre-styled homescreen weather widget for quick status checks.
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Version](https://img.shields.io/badge/Version-v1.0.4-brightgreen.svg)
+![Platform](https://img.shields.io/badge/Platform-Android-orange.svg)
+[![Ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/nimbusweather/shop)
 
 ---
 
-## 🚀 Coming Soon: Nimbus Weather Pro
+## 💡 Our Philosophy
 
-We are currently finalizing **Nimbus Weather Pro** for its official Google Play Store release! Pro unlocks the full potential of Nimbus Weather:
+Weather apps should be clean, fast, and respectful of your privacy. **Nimbus Weather** contains **zero ads, zero invasive tracking, and no hidden subscriptions.**
 
-- 🎛️ **Advanced Widget Designer:** Complete freedom with transparency/opacity sliders, scale controls, custom data slots, and smart tap zones (launch Alarm, Calendar, or Apps directly).
-- 🎨 **Expanded Dynamic Engine & Custom Themes:** Advanced background particle effects and a huge library of UI/Widget themes.
-- 🌱 **Season & Phenology Tracker:** Track natural seasons, environmental transitions, and phenological plant/nature cycles.
-- 🤖 **Weather Intelligence & Radar AI:** AI-powered radar analysis, predictive precipitation forecasting, and smart daily weather insights.
-- 🔔 **Smart Push Notifications:** Intelligent morning briefings, evening previews, and real-time severe weather alerts.
-- ✨ **And much more...**
+The core version of Nimbus Weather is – and will always remain – **100% free**. If you want to support independent development, you can optionally unlock **Nimbus Weather Pro** for a one-time purchase!
 
 ---
 
-## 📥 Installation
+## 📊 Free vs. Pro Edition
 
-1. Go to the **[Releases]** section.
-2. Download the latest `Nimbus-Weather-v1.0.0.apk`.
-3. Open the file on your Android device and confirm the installation.
+| Feature | Standard Edition (Free) | Pro Edition (€2.99 Lifetime) |
+| :--- | :---: | :---: |
+| **Ads & Tracking** | ❌ None | ❌ None |
+| **Core Weather Data** | ✅ Full Access | ✅ Full Access |
+| **Hourly & Daily Forecasts** | ✅ Included | ✅ Extended Analytics |
+| **Basic Widgets** | ✅ Included | ✅ Advanced & Custom Layouts |
+| **App Themes** | Standard Theme | 🎨 5 Exclusive Color Palettes |
+| **Biometeo Health Index** | ❌ | 🩺 Migraine, Joint & Health Index |
+| **Pollen & Phenology Tracker** | ❌ | 🌿 Real-time Season Tracker |
+| **High-Res Rain Radar** | Standard Radar | 🌧️ High-Resolution Playback |
+| **Dynamic Particle Effects** | ✅ Included | 🌌 Performance-Optimized |
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML5 Canvas, CSS3, JavaScript
-- **Map Engine:** Leaflet.js + RainViewer Radar Tiles
-- **Android Native Bridge:** Capacitor JS
-- **Native Android:** Kotlin, `WorkManager`
+## ✨ Features Breakdown
+
+### 🆓 Standard Edition (Always Free)
+- **Privacy-First:** No analytics or tracking scripts attached to your location.
+- **Clean UI:** Responsive layout with dynamic weather backgrounds for rain, snow, and clear skies.
+- **Essential Metrics:** Wind speed, humidity, pressure, UV index, and air quality.
+- **Home Screen Widgets:** Quick access to real-time weather from your home screen.
+
+### 🚀 Pro Edition Features
+- **🎨 5 Exclusive Color Themes:** Customize the entire app appearance to match your personal style.
+- **🧩 Advanced Widget Customization:** Fine-grained styling, flexible sizes, and custom colors.
+- **🩺 Biometeo & Health Index:** Track how weather changes affect migraines, joint pain, and physical well-being.
+- **🌿 Season & Phenology Tracker:** Stay informed about seasonal shifts, active tree/grass pollen levels, and environmental triggers.
+- **🌧️ High-Resolution Radar:** Smooth, interactive precipitation radar.
+- **📊 Deep Weather Analytics:** Detailed hourly breakdown of atmospheric conditions.
 
 ---
 
-## 💬 Feedback & Bug Reports
-If you encounter any bugs, have device-specific rendering issues, or want to suggest features, please open an issue under **[GitHub Issues]** or reach out on Reddit!
+## 📲 Installation
+
+### Option A: Standard Edition (Free)
+1. Download the latest `Nimbus-Weather-v1.0.4.apk` directly from the **[GitHub Releases](https://github.com/Nimbus-Weather-DE-EN/Nimbus-Weather/releases/tag/v1.0.4)** page.
+2. Install the APK on your Android device.
+
+### Option B: Pro Edition (€2.99 Lifetime)
+1. Purchase the Pro package directly on our **[Ko-fi Shop Page](https://ko-fi.com/nimbusweather/shop)**.
+2. Download the provided `.zip` archive containing the Pro APK.
+3. Extract the ZIP file on your device and install the `Nimbus-Weather-Pro.apk`.
+
+---
+
+## 🛠️ Built With
+
+- **Framework:** Capacitor / HTML5 / JavaScript / Kotlin
+- **Radar Engine:** Leaflet.js
+- **Weather API:** Open-Meteo API
+
+---
+
+## 🤝 Support & Feedback
+
+If you enjoy using Nimbus Weather, please consider starring ⭐ this repository or supporting the project on **[Ko-fi](https://ko-fi.com/nimbusweather/shop)**!
