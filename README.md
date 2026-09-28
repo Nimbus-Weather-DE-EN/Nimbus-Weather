@@ -24,10 +24,11 @@ The core version of Nimbus Weather is – and will always remain – **100% free
 | **Ads & Tracking** | ❌ None | ❌ None |
 | **Core Weather Data** | ✅ Full Access | ✅ Full Access |
 | **Hourly & Daily Forecasts** | ✅ Included | ✅ Extended Analytics |
+| **Push Notifications & Alerts** | ❌ None | 🔔 Custom Morning/Evening Reports & Weather Warnings |
 | **Basic Widgets** | ✅ Included | ✅ Advanced & Custom Layouts |
 | **App Themes** | Standard Theme | 🎨 5 Exclusive Color Palettes |
-| **Biometeo Health Index** | ❌ | 🩺 Migraine, Joint & Health Index |
-| **Pollen & Phenology Tracker** | ❌ | 🌿 Real-time Season Tracker |
+| **Biometeo Health Index** | ❌ None | 🩺 Migraine, Joint & Health Index |
+| **Pollen & Phenology Tracker** | ❌ None | 🌿 Real-time Season Tracker |
 | **High-Res Rain Radar** | Standard Radar | 🌧️ High-Resolution Playback |
 | **Dynamic Particle Effects** | ✅ Included | 🌌 Performance-Optimized |
 
@@ -42,6 +43,7 @@ The core version of Nimbus Weather is – and will always remain – **100% free
 - **Home Screen Widgets:** Quick access to real-time weather from your home screen.
 
 ### 🚀 Pro Edition Features
+- **🔔 Smart Push Notifications & Alerts:** Customizable morning briefings & evening summaries on your schedule, plus real-time severe weather warnings.
 - **🎨 5 Exclusive Color Themes:** Customize the entire app appearance to match your personal style.
 - **🧩 Advanced Widget Customization:** Fine-grained styling, flexible sizes, and custom colors.
 - **🩺 Biometeo & Health Index:** Track how weather changes affect migraines, joint pain, and physical well-being.
