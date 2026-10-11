@@ -54,14 +54,10 @@ The core version of Nimbus Weather is – and will always remain – **100% free
 
 ## 📲 Installation
 
-### Option A: Standard Edition (Free)
-1. Download the latest `Nimbus-Weather-v1.0.4.apk` directly from the **[GitHub Releases](https://github.com/Nimbus-Weather-DE-EN/Nimbus-Weather/releases/tag/v1.0.4)** page.
+### Standard Edition (Free)
+1. Download the latest `Nimbus-Weather-v1.0.9.apk` directly from the **[GitHub Releases](https://github.com/Nimbus-Weather-DE-EN/Nimbus-Weather/releases/tag/v1.0.9)** page.
 2. Install the APK on your Android device.
 
-### Option B: Pro Edition (€2.99 Lifetime)
-1. Purchase the Pro package directly on our **[Ko-fi Shop Page](https://ko-fi.com/nimbusweather/shop)**.
-2. Download the provided `.zip` archive containing the Pro APK.
-3. Extract the ZIP file on your device and install the `Nimbus-Weather-Pro.apk`.
 
 ---
 
