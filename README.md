@@ -2,8 +2,7 @@
 
 A sleek, privacy-focused, and completely ad-free weather application for Android built with modern web technologies and Capacitor.
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Version](https://img.shields.io/badge/Version-v1.0.4-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-v1.0.9-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/Platform-Android-orange.svg)
 [![Ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/nimbusweather/shop)
 
